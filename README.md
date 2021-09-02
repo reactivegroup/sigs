@@ -1,5 +1,7 @@
 # sigs
 
+[![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://groups.google.com/g/reactive-group)
+
 SIG工作内容资料库
 
 ## 工作流程
