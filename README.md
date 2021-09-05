@@ -33,7 +33,7 @@ SIG的工作内容会挂在该项目的Issues当中，通过`Label`标识进行�
 
 ### 每个SIG主要分为3块工作内容：
 
-#### 1. 技术分享
+### 1. 技术分享
 
 > 由于部分成员之前已经进行过几轮的技术分享，在对应领域已经有一定的技术储备。而有一部分刚加入的成员可能才刚刚接触，为了更好的满足各自的诉求，所以划分为两个分享方向。
 
@@ -57,7 +57,7 @@ SIG的工作内容会挂在该项目的Issues当中，通过`Label`标识进行�
 + 分享1：单数周举行一次
 + 分享2：双数周举行一次
 
-#### 2. 技术项目
+### 2. 技术项目
 
 每个SIG会设置一个或者多个技术项目。
 
@@ -67,7 +67,7 @@ SIG的工作内容会挂在该项目的Issues当中，通过`Label`标识进行�
 
 后续交流采用不定期的项目交流会，以及日常在github上进行交流。
 
-#### 3. 其他事务
+### 3. 其他事务
 
 其他需要维护的工作，例如资料整理、技术文章迁移等。
 
@@ -77,36 +77,62 @@ SIG的工作内容会挂在该项目的Issues当中，通过`Label`标识进行�
 
 ## SIG工作内容大纲
 
-### Reactive SIG
+> 报名、详情、进度和讨论等，点击链接查看对应Issue
 
-#### 1. [技术分享](./sig/reactive/talk)
+## Reactive SIG
+
+### 1. [技术分享](./sig/reactive/talk)
+
++ [Reactor-Core源码学习和使用](https://github.com/reactivegroup/sigs/issues/19)
++ [Reactor-Netty源码学习和使用](https://github.com/reactivegroup/sigs/issues/20)
 
 [技术文章目录](./sig/reactive/talk/blog)
 
-#### 2. [技术项目](./sig/reactive/project)
+### 2. [技术项目](./sig/reactive/project)
 
-#### 3. [其他事务](./sig/reactive/affairs)
++ [反应式的消息发送平台](https://github.com/reactivegroup/sigs/issues/12)
++ [Capa-Proxy](https://github.com/reactivegroup/sigs/issues/11)
+
+### 3. [其他事务](./sig/reactive/affairs)
+
++ [迁移技术文章到github](https://github.com/reactivegroup/sigs/issues/9)
 
 ---
 
-### RPC SIG
+## RPC SIG
 
-#### 1. [技术分享](./sig/rpc/talk)
+### 1. [技术分享](./sig/rpc/talk)
+
++ [TODO]()
++ [TODO]()
 
 [技术文章目录](./sig/rpc/talk/blog)
 
-#### 2. [技术项目](./sig/rpc/project)
+### 2. [技术项目](./sig/rpc/project)
 
-#### 3. [其他事务](./sig/rpc/affairs)
++ [参与Dubbo社区建设](https://github.com/reactivegroup/sigs/issues/15)
++ [SOA支持capa编程模式](https://github.com/reactivegroup/sigs/issues/18)
+
+### 3. [其他事务](./sig/rpc/affairs)
+
++ [迁移技术文章到github](https://github.com/reactivegroup/sigs/issues/14)
 
 ---
 
-### Cloud SIG
+## Cloud SIG
 
-#### 1. [技术分享](./sig/cloud/talk)
+### 1. [技术分享](./sig/cloud/talk)
+
++ [TODO]()
++ [TODO]()
 
 [技术文章目录](./sig/cloud/talk/blog)
 
-#### 2. [技术项目](./sig/cloud/project)
+### 2. [技术项目](./sig/cloud/project)
 
-#### 3. [其他事务](./sig/cloud/affairs)
++ [capa](https://github.com/reactivegroup/capa)
++ [layotto](https://github.com/reactivegroup/sigs/issues/6)
+
+### 3. [其他事务](./sig/cloud/affairs)
+
++ [迁移技术文章到github](https://github.com/reactivegroup/sigs/issues/7)
