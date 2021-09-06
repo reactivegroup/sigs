@@ -103,8 +103,8 @@ SIG的工作内容会挂在该项目的Issues当中，通过`Label`标识进行�
 
 ### 1. [技术分享](./sig/rpc/talk)
 
-+ [TODO]()
-+ [TODO]()
++ [Dubbo&Netty源码学习](https://github.com/reactivegroup/sigs/issues/22)
++ [gRPC源码学习](https://github.com/reactivegroup/sigs/issues/23)
 
 [技术文章目录](./sig/rpc/talk/blog)
 
