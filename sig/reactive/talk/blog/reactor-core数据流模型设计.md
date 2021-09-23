@@ -143,6 +143,16 @@ return Mono
 
 ### 2.2 反应式库的核心接口
 
+组装数据流处理链的几种形式：
+
+#### 1. 链表形式
+
+面向过程
+
+#### 2. 观察者模式
+
+面向对象
+
 Publisher/Subscriber/Subctiption
 
 java9
@@ -202,15 +212,19 @@ public interface Subscription {
 
 ### 2.3 实现原理概括
 
-#### 1. 命令式编程
+### 1. 命令式编程
 
 ![reactor-设计1](pic/reactor-设计1.png)
 
-#### 2. 声明式编程
+### 2. 声明式编程
 
 ![reactor-设计2](pic/reactor-设计2.png)
 
-#### 3. 函数式编程 Stream
+常用的、简单的数据流处理链路
+
+Netty
+
+### 3. 函数式编程 Stream
 
 > 去除中间过程，横向改为纵向处理
 
